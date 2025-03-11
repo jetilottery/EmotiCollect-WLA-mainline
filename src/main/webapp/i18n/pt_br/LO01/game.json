@@ -1,0 +1,118 @@
+﻿{
+    "version": "3-7-2018-1:58PM-en_us-default-RD",
+    "audioLoader": {
+        "yes": "Sim",
+        "no": "Não",
+        "confirm": "Você deseja ativar o som?"
+    },
+    "Paytable": {
+        "RTPvalue": "{@minRTP}%",
+        "RTPrange": "{@minRTP}% a {@maxRTP}%",
+        "paybackTitle": "Retorno Esperado",
+        "paybackBody": "Para este jogo, o retorno esperado teórico de longo prazo é {RTP}."
+    },
+    "title": "Colecionador de Emojis",
+    "MenuCommand": {
+        "WLA": {
+            "howToPlay": "Ajuda",
+            "payTable": "Tabela de Prêmios",
+            "price": "Preço",
+            "stake": "Aposta",
+            "balance": "Saldo"
+        },
+        "Commercial": {
+            "howToPlay": "Ajuda",
+            "payTable": "Tabela de Pagamento",
+            "price": "Preço",
+            "stake": "Aposta",
+            "balance": "Saldo"
+        },
+        "audio": {
+            "on": "Ativado",
+            "off": "Desativado",
+            "sound": "Som"
+        }
+    },
+	"payTableHelp": {
+		"buttonClose": "X",
+		"prizeLevel": "Nível do Prêmio",
+        "prizeValue": "Valor do Prêmio",
+        "description": "Descrição",
+		"paytableWager": "Valor da aposta: ",
+        "payTableDescription": {
+            "happy":"Amarelo",
+            "lovey":"Rosa",
+            "shocked":"Azul",
+            "angry":"Vermelho",
+            "puke":"Verde",
+            "iw1":"Prêmio Instantâneo 1",
+            "iw2":"Prêmio Instantâneo 2",
+            "iw3":"Prêmio Instantâneo 3"
+        }
+	},
+    "ui": {
+        "balance": "Saldo:",
+        "wager": "Valor da aposta:",
+        "wager_main": "VALOR DA APOSTA",
+        "demo": "TENTAR",
+        "wins": "Prêmio:",
+        "demoWins": "Prêmio da Demonstração:",
+        "buy": "COMPRAR",
+        "try": "TENTAR",
+        "autoPlay": {
+			"WLA": {
+				"revealAll": "JOGO AUTOMÁTICO",
+				"revealAllStop": "PARAR JOGO AUTOMÁTICO"
+			},
+			"Commercial": {
+				"revealAll": "REVELAR TUDO",
+				"revealAllStop": "PARAR DE REVELAR"
+			}
+		},
+        "exit": "SAIR",
+        "playForMoney": "PASSAR PARA DINHEIRO",
+        "play_one": "GIRAR",
+        "buy_again": "JOGAR NOVAMENTE",
+        "try_again": "TENTAR NOVAMENTE",
+        "help_close": "OK",
+        "result_close": "OK",
+        "retry": "TENTAR NOVAMENTE",
+        "meter_division":" | "
+    },
+    "help":{
+        "title":"COMO JOGAR",
+        "portrait":{
+            "text_1":"Use GIRAR para coletar emoticons ou uma estrela. Preencha o medidor de qualquer emoticon para ganhar um prêmio.",
+            "text_2":"Encontre uma partida grátis para ganhar uma partida extra.",
+            "text_3":"Obtenha uma estrela e escolha um cartão de premiação instantânea para ganhar um prêmio instantâneo!"
+        },
+        "landscape":{
+            "text_1":"Use GIRAR para coletar emoticons ou uma estrela. Preencha o medidor de qualquer emoticon para ganhar um prêmio.",
+            "text_2":"Encontre uma partida grátis para ganhar uma partida extra.",
+            "text_3":"Obtenha uma estrela e escolha um cartão de premiação instantânea para ganhar um prêmio instantâneo!"
+        }      
+    },
+    "paytable":{
+        "separator":"/",
+		"win":"PRÊMIO"
+    },
+    "game":{
+        "freeSpinAwarded":"\nPARTIDA GRÁTIS",
+        "instantWin":"Prêmio Instantâneo",
+        "spinsLeft":"Partidas Restantes",
+        "instantWinCard":"PRÊMIO\nINSTANTÂNEO",
+        "winUpTo":"GANHE ATÉ",
+        "pickACard":"ESCOLHA UM CARTÃO DE PRÊMIO INSTANTÂNEO!",
+		"winUpToExclamation":"!"
+    },
+    "result": {
+        "congratulations": "PARABÉNS!",
+        "thanksForPlaying": "OBRIGADO POR JOGAR!",
+        "winText":"Você ganhou",
+        "demoWinText":"Você poderia ter ganho",
+        "loseText": "MAIS SORTE NA PRÓXIMA VEZ",
+        "prizeSuffix_buy": "",
+        "prizeSuffix_try": ""
+    },
+    "error": "<%= code %>\n\n<%= generic %>\n\n<%= specific %>"
+}

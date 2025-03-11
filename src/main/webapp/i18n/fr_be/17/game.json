@@ -1,0 +1,118 @@
+{
+	"version": "3-7-2018-1:58PM-en_us-default-RD",
+	"audioLoader": {
+		"yes": "Oui",
+		"no": "Non",
+		"confirm": "Voulez-vous du son ?"
+	},
+	"Paytable": {
+		"RTPvalue": "{@minRTP}%",
+		"RTPrange": "from {@minRTP}% to {@maxRTP}%",
+		"paybackTitle": "Expected Payback",
+		"paybackBody": "For this game, the long-term, theoretically-expected payback is {RTP}."
+	},
+	"title": "Emoti Collect",
+	"MenuCommand": {
+		"WLA": {
+			"howToPlay": "Help",
+			"payTable": "Prize Table",
+			"price": "Price",
+			"stake": "Stake",
+			"balance": "Balance"
+		},
+		"Commercial": {
+			"howToPlay": "Help",
+			"payTable": "Paytable",
+			"price": "Price",
+			"stake": "Stake",
+			"balance": "Balance"
+		},
+		"audio": {
+			"on": "On",
+			"off": "Off",
+			"sound": "Sound"
+		}
+	},
+	"payTableHelp": {
+		"buttonClose": "X",
+		"prizeLevel": "Prize Level",
+		"prizeValue": "Prize Value",
+		"description": "Description",
+		"paytableWager": "Ticket Cost: ",
+		"payTableDescription": {
+			"happy": "Yellow",
+			"lovey": "Pink",
+			"shocked": "Blue",
+			"angry": "Red",
+			"puke": "Green",
+			"iw1": "Instant Win 1",
+			"iw2": "Instant Win 2",
+			"iw3": "Instant Win 3"
+		}
+	},
+	"ui": {
+		"balance": "",
+		"wager": "Mise :",
+		"wager_main": "MISE",
+		"demo": "DÉMO",
+		"wins": "Gain :",
+		"demoWins": "Démo :",
+		"buy": "ACHETER",
+		"try": "DÉMO",
+		"autoPlay": {
+			"WLA": {
+				"revealAll": "AUTOPLAY",
+				"revealAllStop": "ARRÊTER"
+			},
+			"Commercial": {
+				"revealAll": "AUTOPLAY",
+				"revealAllStop": "ARRÊTER"
+			}
+		},
+		"exit": "QUITTER",
+		"playForMoney": "ACHETER",
+		"play_one": "LANCER",
+		"buy_again": "ACHETER",
+		"try_again": "DÉMO",
+		"help_close": "FERMER",
+		"result_close": "FERMER",
+		"retry": "RECOMMENCER",
+		"meter_division": " | "
+	},
+	"help": {
+		"title": "COMMENT JOUER ?",
+		"portrait": {
+			"text_1": "Appuyez sur « LANCER » et récoltez des émoticônes. Si vous récoltez suffisamment d’émoticônes d’une même couleur, vous gagnez !",
+			"text_2": "Gagnez un lancer supplémentaire grâce au symbole « LANCER GRATUIT ».",
+			"text_3": "La roue s’arrête sur une étoile ? Choisissez une carte dans le jeu bonus et gagnez le montant indiqué."
+		},
+		"landscape": {
+			"text_1": "Appuyez sur « LANCER » et récoltez des émoticônes. Si vous récoltez suffisamment d’émoticônes d’une même couleur, vous gagnez !",
+			"text_2": "Gagnez un lancer supplémentaire grâce au symbole « LANCER GRATUIT ».",
+			"text_3": "La roue s’arrête sur une étoile ? Choisissez une carte dans le jeu bonus et gagnez le montant indiqué."
+		}
+	},
+	"paytable": {
+		"separator": "/",
+		"win": "GAIN"
+	},
+	"game": {
+		"freeSpinAwarded": "\nLANCER GRATUIT",
+		"instantWin": "Jeu bonus",
+		"spinsLeft": "Lancers restants",
+		"instantWinCard": "GAIN\nBONUS",
+		"winUpTo": "GAGNEZ JUSQU’À",
+		"pickACard": "CHOISISSEZ UNE CARTE !",
+		"winUpToExclamation": " !"
+	},
+	"result": {
+		"congratulations": "Bravo !",
+		"thanksForPlaying": "Une démo du jeu ne donne droit à aucun gain.",
+		"winText": "Vous gagnez",
+		"demoWinText": "",
+		"loseText": "Dommage, pas de gain.\nVous n’avez pas récolté assez d’émoticônes et vous n’avez pas gagné de lot au jeu bonus.",
+		"prizeSuffix_buy": "",
+		"prizeSuffix_try": ""
+	},
+	"error": "<%= code %>\n\n<%= generic %>\n\n<%= specific %>"
+}

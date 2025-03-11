@@ -1,0 +1,13 @@
+{
+  "urls": [
+    "ch1.mp3",
+    "ch1.ogg",
+    "ch1.m4a"    
+  ],
+  "sprite": {
+    "EmotiBackingTuneV3_22kMono": [
+      0,
+      80747.39229024944
+    ]
+  }
+}

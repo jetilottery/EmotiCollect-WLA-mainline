@@ -1,0 +1,1 @@
+do the animation as two frames per image except image 00007 as a single frame image

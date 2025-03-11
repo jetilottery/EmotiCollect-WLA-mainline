@@ -1,0 +1,118 @@
+{
+  "version": "3-7-2018-1:57PM-default-default-RD",
+  "audioLoader": {
+    "yes": "Sì",
+    "no": "No",
+    "confirm": "Desideri attivare l'audio?"
+  },
+  "Paytable": {
+    "RTPvalue": "è pari a {@minRTP}%",
+    "RTPrange": "è compreso tra {@minRTP}% e {@maxRTP}%",
+    "paybackTitle": "Ritorno previsto",
+    "paybackBody": "Il ritorno teorico a lungo termine previsto per questo gioco è pari a {RTP}."
+  },
+  "title": "Emoti Collect",
+  "MenuCommand": {
+    "WLA": {
+      "howToPlay": "Guida",
+      "payTable": "Tabella dei premi",
+      "price": "Prezzo",
+      "stake": "Puntata",
+      "balance": "Saldo"
+    },
+    "Commercial": {
+      "howToPlay": "Guida",
+      "payTable": "Tabella dei pagamenti",
+      "price": "Prezzo",
+      "stake": "Puntata",
+      "balance": "Saldo"
+    },
+    "audio": {
+      "on": "On",
+      "off": "Off",
+      "sound": "Audio"
+    }
+  },
+  "payTableHelp": {
+    "buttonClose": "X",
+    "prizeLevel": "Livello del Premio",
+    "prizeValue": "Valore del Premio",
+        "description": "Descrizione",
+		"paytableWager": "Prezzo Biglietto: ",
+        "payTableDescription": {
+            "happy":"Giallo",
+            "lovey":"Rosa",
+            "shocked":"Blu",
+            "angry":"Rosso",
+            "puke":"Verde",
+            "iw1":"Vincita immediata 1",
+            "iw2":"Vincita immediata 2",
+            "iw3":"Vincita immediata 3"
+        }
+  },
+  "ui": {
+    "balance": "Saldo:",
+    "wager": "Prezzo Biglietto:",
+    "wager_main": "PREZZO BIGLIETTO",
+    "demo": "PROVA",
+    "wins": "Vincita:",
+    "demoWins": "Vincita Demo:",
+    "buy": "ACQUISTA",
+    "try": "PROVA",
+    "autoPlay": {
+      "WLA": {
+        "revealAll": "GIOCO AUTOMATICO",
+        "revealAllStop": "STOP AUTO"
+      },
+      "Commercial": {
+        "revealAll": "MOSTRA TUTTI",
+        "revealAllStop": "STOP MOSTRA"
+      }
+    },
+    "exit": "ESCI",
+    "playForMoney": "GIOCA CON DENARO REALE",
+    "play_one": "GIRA",
+    "buy_again": "GIOCA ANCORA",
+    "try_again": "RIPROVA",
+    "help_close": "OK",
+    "result_close": "OK",
+    "retry": "RIPROVA",
+    "meter_division": "|"
+  },
+  "help": {
+    "title": "COME SI GIOCA",
+    "portrait": {
+      "text_1": "Usa il pulsante GIRA per raccogliere emoticon o una stella.Riempi il metro delle emoticon per vincere un premio.",
+      "text_2": "Trova un giro gratuito per vincere un giro extra.",
+      "text_3": "Fermati su una stella per selezionare una carta che assegna un premio immediato!"
+    },
+    "landscape": {
+      "text_1": "Usa il pulsante GIRA per raccogliere emoticon o una stella.Riempi il metro delle emoticon per vincere un premio.",
+      "text_2": "Trova un giro gratuito per vincere un giro extra.",
+      "text_3": "Fermati su una stella per selezionare una carta che assegna un premio immediato!"
+    }
+  },
+  "paytable": {
+    "separator": "/",
+    "win": "VINCITA"
+  },
+  "game": {
+    "freeSpinAwarded": "\nGIRO GRATUITO",
+    "instantWin": "Vincita Immediata",
+    "spinsLeft": "Giri Rimanenti",
+    "instantWinCard": "VINCITA\nIMMEDIATA",
+    "winUpTo": "VINCI FINO A",
+    "pickACard": "SELEZIONA UN CARTA DA PREMIO IMMEDIATO!",
+    "winUpToExclamation": "!"
+  },
+  "result": {
+    "congratulations": "CONGRATULAZIONI!",
+    "thanksForPlaying": "GRAZIE PER AVER GIOCATO CON NOI!",
+    "winText": "Hai vinto",
+    "demoWinText": "Avresti potuto vincere",
+    "loseText": "RITENTA! SARAI PIÙ FORTUNATO!",
+    "prizeSuffix_buy": "",
+    "prizeSuffix_try": ""
+  },
+  "error": "<%= code %>\n\n<%= generic %>\n\n<%= specific %>"
+}

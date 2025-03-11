@@ -1,0 +1,107 @@
+{
+  "version": "3-7-2018-1:57PM-default-default-RD",
+  "audioLoader": {
+    "yes": "Ja",
+    "no": "Nei",
+    "confirm": "Ønsker du lyder?"
+  },
+  "Paytable": {
+    "RTPvalue": "er {@minRTP}%",
+    "RTPrange": "er fra {@minRTP}% til {@maxRTP}%",
+    "paybackTitle": "Forventet tilbakebetaling",
+    "paybackBody": "For dette spillet er den teoretiske, langsiktig forventede gevinstandelen {RTP}."
+  },
+  "title": "Emoti Collect",
+  "MenuCommand": {
+    "WLA": {
+      "howToPlay": "Hjelp",
+      "payTable": "Gevinsttabell",
+      "price": "Pris",
+      "stake": "Innsats",
+      "balance": "Saldo"
+    },
+    "Commercial": {
+      "howToPlay": "Hjelp",
+      "payTable": "Utbetalingstabell",
+      "price": "Pris",
+      "stake": "Innsats",
+      "balance": "Saldo"
+    },
+    "audio": {
+      "on": "På",
+      "off": "Av",
+      "sound": "Lyd"
+    }
+  },
+  "payTableHelp": {
+    "buttonClose": "X",
+    "prizeLevel": "Gevinstnivå",
+    "prizeValue": "Gevinstverdi",
+    "paytableWager": "Brettkostnad:"
+  },
+  "ui": {
+    "balance": "Saldo:",
+    "wager": "Brettkostnad:",
+    "wager_main": "BRETTKOSTNAD",
+    "demo": "PRØV",
+    "wins": "Gevinst:",
+    "demoWins": "Demogevinst:",
+    "buy": "KJØP",
+    "try": "PRØV",
+    "autoPlay": {
+      "WLA": {
+        "revealAll": "AUTOSPILL",
+        "revealAllStop": "STOPP AUTOSPILL"
+      },
+      "Commercial": {
+        "revealAll": "AVDEKKE ALLE",
+        "revealAllStop": "STOPP AVDEKKING"
+      }
+    },
+    "exit": "LUKK",
+    "playForMoney": "GÅ OVER TIL PENGER",
+    "play_one": "START",
+    "buy_again": "SPILL PÅ NYTT",
+    "try_again": "PRØV IGJEN",
+    "help_close": "OK",
+    "result_close": "OK",
+    "retry": "GJENTA",
+    "meter_division": "|"
+  },
+  "help": {
+    "title": "HVORDAN SPILLE",
+    "portrait": {
+      "text_1": "Bruk SPINN for å samle inn uttrykksikoner eller en stjerne.Fyll en måler med uttrykksikoner for å vinne en gevinst.",
+      "text_2": "Finn et gratisspinn for å tjene et ekstra spinn.",
+      "text_3": "Treff en stjerne for å velge et umiddelbart gevinstkort og få en umiddelbar gevinst!"
+    },
+    "landscape": {
+      "text_1": "Bruk SPINN for å samle inn uttrykksikoner eller en stjerne.Fyll en måler med uttrykksikoner for å vinne en gevinst.",
+      "text_2": "Finn et gratisspinn for å tjene et ekstra spinn.",
+      "text_3": "Treff en stjerne for å velge et umiddelbart gevinstkort og få en umiddelbar gevinst!"
+    }
+  },
+  "paytable": {
+    "separator": "/",
+    "win": "GEVINST"
+  },
+  "game": {
+    "freeSpinAwarded": "GRATISSPINN",
+    "instantWin": "Umiddelbar gevinst",
+    "spinsLeft": "Spinn gjenstår",
+    "instantWinCard": "UMIDDELBAR\nGEVINST",
+    "winUpTo": "VINN OPPTIL",
+    "pickACard": "VELG ET UMIDDELBART GEVINSTKORT!",
+    "winUpToExclamation": "!"
+  },
+  "result": {
+    "congratulations": "GRATULERER!",
+    "thanksForPlaying": "TAKK FOR AT DU SPILTE!",
+    "winText": "Du vant",
+    "demoWinText": "Du kunne ha vunnet",
+    "loseText": "BEDRE LYKKE NESTE GANG",
+    "prizeSuffix_buy": "",
+    "prizeSuffix_try": ""
+  },
+  "error": "<%= code %>\n\n<%= generic %>\n\n<%= specific %>"
+}

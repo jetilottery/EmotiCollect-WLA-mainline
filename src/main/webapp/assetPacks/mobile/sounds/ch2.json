@@ -1,0 +1,41 @@
+{
+  "urls": [
+    "ch2.mp3",
+    "ch2.ogg",
+    "ch2.m4a"
+  ],
+  "sprite": {
+    "Angry emoji signature sound": [
+      0,
+      374.421768707483
+    ],
+    "Free spin awarded - Speed Up Wheel Sound": [
+      2000,
+      5259.274376417234
+    ],
+    "Happy emoji signature sound V1": [
+      9000,
+      464.94331065759553
+    ],
+    "Instant Win awarded": [
+      11000,
+      2594.8299319727894
+    ],
+    "InstantWinLanded": [
+      15000,
+      1404.807256235827
+    ],
+    "Love emoji signature sound V2": [
+      18000,
+      868.2993197278926
+    ],
+    "PukeyEmojiSignatureSound": [
+      20000,
+      510.11337868480666
+    ],
+    "Scared emoji signature sound": [
+      22000,
+      376.5532879818601
+    ]
+  }
+}

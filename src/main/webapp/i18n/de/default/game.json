@@ -1,0 +1,118 @@
+{
+  "version": "3-7-2018-1:57PM-default-default-RD",
+  "audioLoader": {
+    "yes": "Ja",
+    "no": "Nein",
+    "confirm": "Möchten Sie den Ton einschalten?"
+  },
+  "Paytable": {
+    "RTPvalue": "ist {@minRTP}%",
+    "RTPrange": "ist von {@minRTP} % bis {@maxRTP} %",
+    "paybackTitle": "Erwartete Rückzahlungsinformationen",
+    "paybackBody": "Für dieses Spiel betragen die langfristig erwarteten Rückzahlungsinformationen {RTP}."
+  },
+  "title": "Emoti Collect",
+  "MenuCommand": {
+    "WLA": {
+      "howToPlay": "Hilfe",
+      "payTable": "Gewinntabelle",
+      "price": "Preis",
+      "stake": "Einsatz",
+      "balance": "Guthaben"
+    },
+    "Commercial": {
+      "howToPlay": "Hilfe",
+      "payTable": "Auszahlungstabelle",
+      "price": "Preis",
+      "stake": "Einsatz",
+      "balance": "Guthaben"
+    },
+    "audio": {
+      "on": "An",
+      "off": "Aus",
+      "sound": "Ton"
+    }
+  },
+  "payTableHelp": {
+    "buttonClose": "X",
+    "prizeLevel": "Preisstufe",
+    "prizeValue": "Preiswert",
+        "description": "Beschreibung",
+		"paytableWager": "Ticketpreis: ",
+        "payTableDescription": {
+            "happy":"Gelb",
+            "lovey":"Rosa",
+            "shocked":"Blau",
+            "angry":"Rot",
+            "puke":"Grün",
+            "iw1":"Sofortgewinn 1",
+            "iw2":"Sofortgewinn 2",
+            "iw3":"Sofortgewinn 3"
+        }
+  },
+  "ui": {
+    "balance": "Guthaben:",
+    "wager": "Ticketpreis:",
+    "wager_main": "TICKETPREIS",
+    "demo": "AUSPROBIEREN",
+    "wins": "Gewinn:",
+    "demoWins": "Demo-Gewinn:",
+    "buy": "KAUFEN",
+    "try": "AUSPROBIEREN",
+    "autoPlay": {
+      "WLA": {
+        "revealAll": "AUTOSPIEL",
+        "revealAllStop": "AUTOSPIEL BEENDEN"
+      },
+      "Commercial": {
+        "revealAll": "ALLE AUFDECKEN",
+        "revealAllStop": "AUFDECKEN BEENDEN"
+      }
+    },
+    "exit": "ENDE",
+    "playForMoney": "ZU ECHTGELD WECHSELN",
+    "play_one": "DREHEN",
+    "buy_again": "ERNEUT SPIELEN",
+    "try_again": "ERNEUT PROBIEREN",
+    "help_close": "OK",
+    "result_close": "OK",
+    "retry": "NEUVERSUCH",
+    "meter_division": "|"
+  },
+  "help": {
+    "title": "SPIELANLEITUNG",
+    "portrait": {
+      "text_1": "Drücken Sie auf DREHEN, um Emoticons oder Sterne zu sammeln.Füllen Sie die Emoticon-Anzeige, um einen Preis zu gewinnen.",
+      "text_2": "Finden Sie ein Freispiel, um ein zusätzliches Spiel zu erhalten.",
+      "text_3": "Wenn Sie auf einem Stern landen, wählen Sie eine Sofortgewinnkarte für einen Sofortgewinn!"
+    },
+    "landscape": {
+      "text_1": "Drücken Sie auf DREHEN, um Emoticons oder Sterne zu sammeln.Füllen Sie die Emoticon-Anzeige, um einen Preis zu gewinnen.",
+      "text_2": "Finden Sie ein Freispiel, um ein zusätzliches Spiel zu erhalten.",
+      "text_3": "Wenn Sie auf einem Stern landen, wählen Sie eine Sofortgewinnkarte für einen Sofortgewinn!"
+    }
+  },
+  "paytable": {
+    "separator": "/",
+    "win": "GEWINN"
+  },
+  "game": {
+    "freeSpinAwarded": "\nFREISPIEL",
+    "instantWin": "Sofortgewinn",
+    "spinsLeft": "Verbleibende Spiele",
+    "instantWinCard": "SOFORT\nGEWINN",
+    "winUpTo": "GEWINNEN SIE BIS ZU",
+    "pickACard": "WÄHLEN SIE EINE SOFORTGEWINNKARTE!",
+    "winUpToExclamation": "!"
+  },
+  "result": {
+    "congratulations": "GLÜCKWUNSCH!",
+    "thanksForPlaying": "VIELEN DANK FÜRS SPIELEN!",
+    "winText": "Sie haben gewonnen:",
+    "demoWinText": "Sie hätten gewinnen können:",
+    "loseText": "MEHR GLÜCK BEIM \nNÄCHSTEN MAL",
+    "prizeSuffix_buy": "",
+    "prizeSuffix_try": ""
+  },
+  "error": "<%= code %>\n\n<%= generic %>\n\n<%= specific %>"
+}

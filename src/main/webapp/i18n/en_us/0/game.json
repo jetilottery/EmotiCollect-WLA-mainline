@@ -1,0 +1,118 @@
+{
+    "version": "3-7-2018-1:58PM-en_us-0-RD",
+    "audioLoader": {
+        "yes": "0Yes",
+        "no": "0No",
+        "confirm": "0Would you like sound?"
+    },
+    "Paytable": {
+        "RTPvalue": "{@minRTP}%",
+        "RTPrange": "from {@minRTP}% to {@maxRTP}%",
+        "paybackTitle": "Expected Payback",
+        "paybackBody": "For this game, the long-term, theoretically-expected payback is {RTP}."
+    },
+    "title": "Emoti Collect",
+    "MenuCommand": {
+        "WLA": {
+            "howToPlay": "0Help",
+            "payTable": "0Prize Table",
+            "price": "0Price",
+            "stake": "0Stake",
+            "balance": "0Balance"
+        },
+        "Commercial": {
+            "howToPlay": "0Help",
+            "payTable": "0Paytable",
+            "price": "0Price",
+            "stake": "0Stake",
+            "balance": "0Balance"
+        },
+        "audio": {
+            "on": "On",
+            "off": "Off",
+            "sound": "Sound"
+        }
+    },
+	"payTableHelp": {
+		"buttonClose": "X",
+		"prizeLevel": "Prize Level",
+        "prizeValue": "Prize Value",
+        "description": "Description",
+		"paytableWager": "Ticket Cost: ",
+        "payTableDescription": {
+            "happy":"0Yellow",
+            "lovey":"0Pink",
+            "shocked":"0Blue",
+            "angry":"0Red",
+            "puke":"0Green",
+            "iw1":"0Instant Win 1",
+            "iw2":"0Instant Win 2",
+            "iw3":"0Instant Win 3"
+        }
+	},
+    "ui": {
+        "balance": "0Balance:",
+        "wager": "0Ticket Cost:",
+        "wager_main": "0TICKET COST",
+        "demo": "0TRY",
+        "wins": "0Win:",
+        "demoWins": "0Demo Win:",
+        "buy": "0BUY",
+        "try": "0TRY",
+        "autoPlay": {
+			"WLA": {
+				"revealAll": "0AUTO PLAY",
+				"revealAllStop": "0STOP AUTO"
+			},
+			"Commercial": {
+				"revealAll": "0REVEAL ALL",
+				"revealAllStop": "0STOP REVEAL"
+			}
+		},
+        "exit": "0EXIT",
+        "playForMoney": "0MOVE TO MONEY",
+        "play_one": "0SPIN",
+        "buy_again": "0PLAY AGAIN",
+        "try_again": "0TRY AGAIN",
+        "help_close": "0OK",
+        "result_close": "0OK",
+        "retry": "0RETRY",
+        "meter_division":" | "
+    },
+    "help":{
+        "title":"0HOW TO PLAY",
+        "portrait":{
+            "text_1":"0Use SPIN to collect emoticons or a star. Fill any emoticon meter to win a prize.",
+            "text_2":"0Find a free spin to earn an extra spin.",
+            "text_3":"0Land on a star and choose an instant win card for an instant prize!"
+        },
+        "landscape":{
+            "text_1":"0Use SPIN to collect emoticons or a star. Fill any emoticon meter to win a prize.",
+            "text_2":"0Find a free spin to earn an extra spin.",
+            "text_3":"0Land on a star and choose an instant win card for an instant prize!"
+        }        
+    },
+    "paytable":{
+        "separator":"/",
+		"win":"0WIN"
+    },
+    "game":{
+        "freeSpinAwarded":"\n0FREE SPIN",
+        "instantWin":"0Instant Win",
+        "spinsLeft":"0Spins Left",
+        "instantWinCard":"0INSTANT\nWIN",
+        "winUpTo":"0WIN UP TO",
+        "pickACard":"0PICK AN INSTANT WIN CARD!",
+		"winUpToExclamation":"!"
+    },
+    "result": {
+        "congratulations": "0CONGRATULATIONS!",
+        "thanksForPlaying": "0THANKS FOR PLAYING!",
+        "winText":"0You have won",
+        "demoWinText":"0You could have won",
+        "loseText": "0BETTER LUCK NEXT TIME",
+        "prizeSuffix_buy": "",
+        "prizeSuffix_try": ""
+    },
+    "error": "<%= code %>\n\n<%= generic %>\n\n<%= specific %>"
+}

@@ -1,0 +1,118 @@
+{
+	"version": "3-7-2018-1:58PM-en_us-default-RD",
+	"audioLoader": {
+		"yes": "Ja",
+		"no": "Nee",
+		"confirm": "Wil je geluid?"
+	},
+	"Paytable": {
+		"RTPvalue": "{@minRTP}%",
+		"RTPrange": "from {@minRTP}% to {@maxRTP}%",
+		"paybackTitle": "Expected Payback",
+		"paybackBody": "For this game, the long-term, theoretically-expected payback is {RTP}."
+	},
+	"title": "Emoti Collect",
+	"MenuCommand": {
+		"WLA": {
+			"howToPlay": "Help",
+			"payTable": "Prize Table",
+			"price": "Price",
+			"stake": "Stake",
+			"balance": "Balance"
+		},
+		"Commercial": {
+			"howToPlay": "Help",
+			"payTable": "Paytable",
+			"price": "Price",
+			"stake": "Stake",
+			"balance": "Balance"
+		},
+		"audio": {
+			"on": "On",
+			"off": "Off",
+			"sound": "Sound"
+		}
+	},
+	"payTableHelp": {
+		"buttonClose": "X",
+		"prizeLevel": "Prize Level",
+		"prizeValue": "Prize Value",
+		"description": "Description",
+		"paytableWager": "Ticket Cost: ",
+		"payTableDescription": {
+			"happy": "Yellow",
+			"lovey": "Pink",
+			"shocked": "Blue",
+			"angry": "Red",
+			"puke": "Green",
+			"iw1": "Instant Win 1",
+			"iw2": "Instant Win 2",
+			"iw3": "Instant Win 3"
+		}
+	},
+	"ui": {
+		"balance": "",
+		"wager": "Inzet:",
+		"wager_main": "INZET",
+		"demo": "DEMO",
+		"wins": "Winst:",
+		"demoWins": "Demo:",
+		"buy": "KOPEN",
+		"try": "DEMO",
+		"autoPlay": {
+			"WLA": {
+				"revealAll": "AUTOPLAY",
+				"revealAllStop": "STOP"
+			},
+			"Commercial": {
+				"revealAll": "AUTOPLAY",
+				"revealAllStop": "STOP"
+			}
+		},
+		"exit": "VERLATEN",
+		"playForMoney": "KOPEN",
+		"play_one": "DRAAIEN",
+		"buy_again": "KOPEN",
+		"try_again": "DEMO",
+		"help_close": "SLUITEN",
+		"result_close": "SLUITEN",
+		"retry": "OPNIEUW",
+		"meter_division": " | "
+	},
+	"help": {
+		"title": "HOE SPELEN?",
+		"portrait": {
+			"text_1": "Druk op “DRAAIEN” en verzamel zo emoticons. Verzamel voldoende emoticons van eenzelfde kleur en win!",
+			"text_2": "Vind een “Draaibeurt”-symbool en verdien een extra draaibeurt.",
+			"text_3": "Land je op een ster? Kies een kaart in het bonusspel en win het getoonde bedrag."
+		},
+		"landscape": {
+			"text_1": "Druk op “DRAAIEN” en verzamel zo emoticons. Verzamel voldoende emoticons van eenzelfde kleur en win!",
+			"text_2": "Vind een “Draaibeurt”-symbool en verdien een extra draaibeurt.",
+			"text_3": "Land je op een ster? Kies een kaart in het bonusspel en win het getoonde bedrag."
+		}
+	},
+	"paytable": {
+		"separator": "/",
+		"win": "WINST"
+	},
+	"game": {
+		"freeSpinAwarded": "\nDRAAIBEURT",
+		"instantWin": "Bonusspel",
+		"spinsLeft": "Draaibeurten",
+		"instantWinCard": "BONUS\nWINST",
+		"winUpTo": "WIN TOT ",
+		"pickACard": "KIES EEN KAART!",
+		"winUpToExclamation": "!"
+	},
+	"result": {
+		"congratulations": "PROFICIAT!",
+		"thanksForPlaying": "Een demospel geeft geen recht op winst.",
+		"winText": "Je wint",
+		"demoWinText": "",
+		"loseText": "Helaas, geen winst.\nJe hebt onvoldoende emoticons verzameld en geen prijs gewonnen in het bonusspel.",
+		"prizeSuffix_buy": "",
+		"prizeSuffix_try": ""
+	},
+	"error": "<%= code %>\n\n<%= generic %>\n\n<%= specific %>"
+}

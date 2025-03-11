@@ -1,0 +1,33 @@
+{
+  "urls": [
+    "ch5.mp3",
+    "ch5.ogg",
+    "ch5.m4a"    
+  ],
+  "sprite": {
+    "CountupSting": [
+      0,
+      763.469387755102
+    ],
+    "EmojiCount": [
+      2000,
+      49.29705215419489
+    ],
+    "Meter filling 1 Loop": [
+      4000,
+      3409.1156462585036
+    ],
+    "Meter filling 1 shot": [
+      9000,
+      4431.791383219956
+    ],
+    "Meter filling End Sting": [
+      15000,
+      2414.875283446712
+    ],
+    "MeterFilled_tada": [
+      19000,
+      2127.5283446712015
+    ]
+  }
+}

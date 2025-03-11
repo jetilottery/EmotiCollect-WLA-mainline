@@ -1,0 +1,107 @@
+{
+  "version": "5-1-2018-1:57PM-default-default-NT",
+  "audioLoader": {
+    "yes": "Ja",
+    "no": "Nei",
+    "confirm": "Ønsker du lyd?"
+  },
+  "Paytable": {
+    "RTPvalue": "er {@minRTP}%",
+    "RTPrange": "er fra {@minRTP}% til {@maxRTP}%",
+    "paybackTitle": "Vinnersannsynlighet",
+    "paybackBody": "Premieandel {RTP}."
+  },
+  "title": "Emoti - samle og vinn",
+  "MenuCommand": {
+    "WLA": {
+      "howToPlay": "Slik spiller du",
+      "payTable": "Premieoversikt",
+      "price": "Pris",
+      "stake": "Innsats",
+      "balance": "Saldo"
+    },
+    "Commercial": {
+      "howToPlay": "Slik spiller du",
+      "payTable": "Premieoversikt",
+      "price": "Pris",
+      "stake": "Innsats",
+      "balance": "Saldo"
+    },
+    "audio": {
+      "on": "På",
+      "off": "Av",
+      "sound": "Lyd"
+    }
+  },
+  "payTableHelp": {
+    "buttonClose": "X",
+    "prizeLevel": "Premienivå",
+    "prizeValue": "Premie",
+    "paytableWager": "Pris"
+  },
+  "ui": {
+    "balance": "Saldo ",
+    "wager": " ",
+    "wager_main": " ",
+    "demo": "Prøvespill",
+    "wins": "Premie",
+    "demoWins": "Premie prøvespill",
+    "buy": "KJØP",
+    "try": "Prøvespill",
+    "autoPlay": {
+      "WLA": {
+        "revealAll": "AVDEKKE ALLE",
+        "revealAllStop": "STOPP AVDEKKING"
+      },
+      "Commercial": {
+        "revealAll": "AVDEKKE ALLE",
+        "revealAllStop": "STOPP AVDEKKING"
+      }
+    },
+    "exit": "LUKK",
+    "playForMoney": "SPILL MED PENGER",
+    "play_one": "START",
+    "buy_again": "SPILL PÅ NYTT",
+    "try_again": "PRØV IGJEN",
+    "help_close": "OK",
+    "result_close": "OK",
+    "retry": "PRØV IGJEN",
+    "meter_division": "|"
+  },
+  "help": {
+    "title": "Slik spiller du",
+    "portrait": {
+      "text_1": "Samle tilstrekkelig antall emoji eller få en stjerne for å få premie.",
+      "text_2": "Finn et spinnende hjul og få en ekstra sjanse.",
+      "text_3": "Få en stjerne og du får en lykkepremie!"
+    },
+    "landscape": {
+      "text_1": "Samle tilstrekkelig antall emoji eller få en stjerne for å få premie.",
+      "text_2": "Finn et spinnende hjul og få en ekstra sjanse.",
+      "text_3": "Få en stjerne og du får en lykkepremie!"
+    }
+  },
+  "paytable": {
+    "separator": "/",
+    "win": "PREMIE"
+  },
+  "game": {
+    "freeSpinAwarded": "\nGRATISSJANSE",
+    "instantWin": "Premie",
+    "spinsLeft": "Antall sjanser",
+    "instantWinCard": "Lykkepremie",
+    "winUpTo": "VINN INNTIL",
+    "pickACard": "VELG ET LYKKEKORT!",
+    "winUpToExclamation": "!"
+  },
+  "result": {
+    "congratulations": "GRATULERER!",
+    "thanksForPlaying": "PREMIE PRØVESPILL",
+    "winText": "Du vant",
+    "demoWinText": "Hadde dette vært et spill for ekte penger hadde du vunnet",
+    "loseText": "BEKLAGER INGEN PREMIE!",
+    "prizeSuffix_buy": "",
+    "prizeSuffix_try": ""
+  },
+  "error": "<%= code %>\n\n<%= generic %>\n\n<%= specific %>"
+}

@@ -1,0 +1,29 @@
+{
+  "urls": [
+    "ch4.mp3",
+    "ch4.ogg",
+    "ch4.m4a"    
+  ],
+  "sprite": {
+    "AngryEmojiExplode": [
+      0,
+      1892.4263038548752
+    ],
+    "HappyEmojiExplode": [
+      3000,
+      1960
+    ],
+    "LoveEmojiExplode1": [
+      6000,
+      1960
+    ],
+    "PukeyEmojiExplode": [
+      9000,
+      1651.5192743764171
+    ],
+    "ScaredEmojiExplode": [
+      12000,
+      1960.000000000001
+    ]
+  }
+}

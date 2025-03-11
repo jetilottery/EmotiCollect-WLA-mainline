@@ -1,0 +1,23 @@
+{
+	"config": {
+        "reveal_delay_seconds":				0.5,
+		"show_result_screen":					true,
+		"use_jlottery_auto_reveal":			true,
+		"self_auto_reveal_enabled":			true,
+		"reveal_data_save_enabled":			true,
+		"help_open_at_start":					true,
+		"version_number_visible":				true,
+		"background_music_enabled":			true,
+		"seconds_delay_dismiss_result":		0,
+		"show_idle_animations":				true,
+		"idle_interval_lower_seconds":		0.5,
+		"idle_interval_upper_seconds":		1.5,
+		"show_non_winning_prizes":			false,
+		"wheel_spin_duration_seconds":		2,
+		"auto_play_wheel_speed":				1.5,
+		"auto_reveal_iw_cards":				false,
+		"IW_idle_interval_lower_seconds":		2,
+		"IW_idle_interval_upper_seconds":		2,
+		"consoleEnabledDuringPlay": true
+    }
+}

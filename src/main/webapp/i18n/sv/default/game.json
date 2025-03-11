@@ -1,0 +1,118 @@
+{
+  "version": "3-7-2018-1:57PM-default-default-RD",
+  "audioLoader": {
+    "yes": "Ja",
+    "no": "Nej",
+    "confirm": "Vill du ha ljud?"
+  },
+  "Paytable": {
+    "RTPvalue": "är {@minRTP} %",
+    "RTPrange": "är från {@minRTP} % till {@maxRTP} %",
+    "paybackTitle": "Förväntad återbetalning",
+    "paybackBody": "För det här spelet är den långsiktiga, teoretiskt förväntade återbetalningen {RTP}."
+  },
+  "title": "Emoti Collect",
+  "MenuCommand": {
+    "WLA": {
+      "howToPlay": "Hjälp",
+      "payTable": "Pristabell",
+      "price": "Pris",
+      "stake": "Insats",
+      "balance": "Saldo"
+    },
+    "Commercial": {
+      "howToPlay": "Hjälp",
+      "payTable": "Vinsttabell",
+      "price": "Pris",
+      "stake": "Insats",
+      "balance": "Saldo"
+    },
+    "audio": {
+      "on": "På",
+      "off": "Av",
+      "sound": "Ljud"
+    }
+  },
+  "payTableHelp": {
+    "buttonClose": "X",
+    "prizeLevel": "Vinstnivå",
+    "prizeValue": "Vinstvärde",
+        "description": "Beskrivning",
+		"paytableWager": "Lottkostnad: ",
+        "payTableDescription": {
+            "happy":"Gul",
+            "lovey":"Rosa",
+            "shocked":"Blå",
+            "angry":"Röd",
+            "puke":"Grön",
+            "iw1":"Direktvinst 1",
+            "iw2":"Direktvinst 2",
+            "iw3":"Direktvinst 3"
+        }
+  },
+  "ui": {
+    "balance": "Saldo:",
+    "wager": "Lottkostnad:",
+    "wager_main": "LOTTKOSTNAD",
+    "demo": "TESTA",
+    "wins": "Vinst:",
+    "demoWins": "Demovinst:",
+    "buy": "KÖP",
+    "try": "TESTA",
+    "autoPlay": {
+      "WLA": {
+        "revealAll": "AUTOSPEL",
+        "revealAllStop": "STOPPA AUTO"
+      },
+      "Commercial": {
+        "revealAll": "AVSLÖJA ALLA",
+        "revealAllStop": "STOPPA AVSLÖJA"
+      }
+    },
+    "exit": "LÄMNA",
+    "playForMoney": "FLYTTA TILL PENGAR",
+    "play_one": "SNURRA",
+    "buy_again": "SPELA IGEN",
+    "try_again": "FÖRSÖK IGEN",
+    "help_close": "OK",
+    "result_close": "OK",
+    "retry": "FÖRSÖK IGEN",
+    "meter_division": "|"
+  },
+  "help": {
+    "title": "SÅ HÄR SPELAR DU",
+    "portrait": {
+      "text_1": "Använd SNURRA för att samla emotikoner eller en stjärna.Fyll en emotikon-mätare för att vinna ett pris.",
+      "text_2": "Hitta ett gratissnurr för att få ett extrasnurr.",
+      "text_3": "Landa på en stjärna och välj ett direktvinstkort för en direktvinst!"
+    },
+    "landscape": {
+      "text_1": "Använd SNURRA för att samla emotikoner eller en stjärna.Fyll en emotikon-mätare för att vinna ett pris.",
+      "text_2": "Hitta ett gratissnurr för att få ett extrasnurr.",
+      "text_3": "Landa på en stjärna och välj ett direktvinstkort för en direktvinst!"
+    }
+  },
+  "paytable": {
+    "separator": "/",
+    "win": "VINST"
+  },
+  "game": {
+    "freeSpinAwarded": "\nGRATISSNURR",
+    "instantWin": "Direktvinst",
+    "spinsLeft": "Snurrar vänster",
+    "instantWinCard": "DIREKT-\nVINST",
+    "winUpTo": "VINN UPP TILL",
+    "pickACard": "VÄLJ ETT DRIEKTVINSTKORT!",
+    "winUpToExclamation": "!"
+  },
+  "result": {
+    "congratulations": "GRATTIS!",
+    "thanksForPlaying": "TACK FÖR ATT DU SPELAR!",
+    "winText": "Du har vunnit",
+    "demoWinText": "Du kunde ha vunnit",
+    "loseText": "BÄTTRE LYCKA NÄSTA GÅNG",
+    "prizeSuffix_buy": "",
+    "prizeSuffix_try": ""
+  },
+  "error": "<%= code %>\n\n<%= generic %>\n\n<%= specific %>"
+}

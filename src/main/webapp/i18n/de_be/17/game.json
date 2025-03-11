@@ -1,0 +1,118 @@
+{
+	"version": "3-7-2018-1:58PM-en_us-default-RD",
+	"audioLoader": {
+		"yes": "Ja",
+		"no": "Nein",
+		"confirm": "Mit Ton?"
+	},
+	"Paytable": {
+		"RTPvalue": "{@minRTP}%",
+		"RTPrange": "from {@minRTP}% to {@maxRTP}%",
+		"paybackTitle": "Expected Payback",
+		"paybackBody": "For this game, the long-term, theoretically-expected payback is {RTP}."
+	},
+	"title": "Emoti Collect",
+	"MenuCommand": {
+		"WLA": {
+			"howToPlay": "Help",
+			"payTable": "Prize Table",
+			"price": "Price",
+			"stake": "Stake",
+			"balance": "Balance"
+		},
+		"Commercial": {
+			"howToPlay": "Help",
+			"payTable": "Paytable",
+			"price": "Price",
+			"stake": "Stake",
+			"balance": "Balance"
+		},
+		"audio": {
+			"on": "On",
+			"off": "Off",
+			"sound": "Sound"
+		}
+	},
+	"payTableHelp": {
+		"buttonClose": "X",
+		"prizeLevel": "Prize Level",
+		"prizeValue": "Prize Value",
+		"description": "Description",
+		"paytableWager": "Ticket Cost: ",
+		"payTableDescription": {
+			"happy": "Yellow",
+			"lovey": "Pink",
+			"shocked": "Blue",
+			"angry": "Red",
+			"puke": "Green",
+			"iw1": "Instant Win 1",
+			"iw2": "Instant Win 2",
+			"iw3": "Instant Win 3"
+		}
+	},
+	"ui": {
+		"balance": "",
+		"wager": "Einsatz:",
+		"wager_main": "EINSATZ",
+		"demo": "DEMO",
+		"wins": "Gewinn:",
+		"demoWins": "Demo:",
+		"buy": "KAUFEN",
+		"try": "DEMO",
+		"autoPlay": {
+			"WLA": {
+				"revealAll": "AUTOPLAY",
+				"revealAllStop": "STOPP"
+			},
+			"Commercial": {
+				"revealAll": "AUTOPLAY",
+				"revealAllStop": "STOPP"
+			}
+		},
+		"exit": "BEENDEN",
+		"playForMoney": "KAUFEN",
+		"play_one": "DREHEN",
+		"buy_again": "KAUFEN",
+		"try_again": "DEMO",
+		"help_close": "SCHLIESSEN",
+		"result_close": "SCHLIESSEN",
+		"retry": "NOCHMALS",
+		"meter_division": " | "
+	},
+	"help": {
+		"title": "SPIELANLEITUNG",
+		"portrait": {
+			"text_1": "Drücken Sie auf „DREHEN“ und sammeln Sie so Emoticons. Wenn Sie genügend Emoticons mit derselben Farbe gesammelt haben, gewinnen Sie!",
+			"text_2": "Gewinnen Sie einen zusätzlichen Dreh mit dem Symbol „GRATISDREH“.",
+			"text_3": "Hält das Rad auf einem Stern an? Wählen Sie eine Karte im Bonusspiel und gewinnen Sie den angezeigten Betrag."
+		},
+		"landscape": {
+			"text_1": "Drücken Sie auf „DREHEN“ und sammeln Sie so Emoticons. Wenn Sie genügend Emoticons mit derselben Farbe gesammelt haben, gewinnen Sie!",
+			"text_2": "Gewinnen Sie einen zusätzlichen Dreh mit dem Symbol „GRATISDREH“.",
+			"text_3": "Hält das Rad auf einem Stern an? Wählen Sie eine Karte im Bonusspiel und gewinnen Sie den angezeigten Betrag."
+		}
+	},
+	"paytable": {
+		"separator": "/",
+		"win": "Gewinn"
+	},
+	"game": {
+		"freeSpinAwarded": "\nGRATISDREH",
+		"instantWin": "Bonusspiel",
+		"spinsLeft": "Restliche Drehs",
+		"instantWinCard": "BONUS\nGEWINN",
+		"winUpTo": "GEWINNEN SIE BIS ZU",
+		"pickACard": "WÄHLEN SIE EINE KARTE!",
+		"winUpToExclamation": "!"
+	},
+	"result": {
+		"congratulations": "Glückwunsch!",
+		"thanksForPlaying": "Ein Demospiel gibt keinen Anspruch auf Gewinn.",
+		"winText": "Sie gewinnen",
+		"demoWinText": "",
+		"loseText": "Schade, kein Gewinn. Sie haben nicht genügend Emoticons und keinen Preis im Bonusspiel gewonnen.",
+		"prizeSuffix_buy": "",
+		"prizeSuffix_try": ""
+	},
+	"error": "<%= code %>\n\n<%= generic %>\n\n<%= specific %>"
+}

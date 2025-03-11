@@ -1,0 +1,118 @@
+﻿{
+    "version": "3-7-2018-1:57PM-default-default-RD",
+    "audioLoader": {
+        "yes": "Oui",
+        "no": "Non",
+        "confirm": "Activer le son?"
+    },
+    "Paytable": {
+        "RTPvalue": "est de {@minRTP} %",
+        "RTPrange": "varie de {@minRTP} % à {@maxRTP} %",
+        "paybackTitle": "Taux de retour théorique",
+        "paybackBody": "Pour ce jeu, le taux de retour théorique moyen à long terme {RTP}."
+    },
+    "title": "Emoti Collect",
+    "MenuCommand": {
+        "WLA": {
+            "howToPlay": "Aide",
+            "payTable": "Table de paiement",
+            "price": "Prix",
+            "stake": "Mise",
+            "balance": "Solde"
+        },
+        "Commercial": {
+            "howToPlay": "Aide",
+            "payTable": "Table de paiement",
+            "price": "Prix",
+            "stake": "Mise",
+            "balance": "Solde"
+        },
+        "audio": {
+            "on": "Activé",
+            "off": "Désactivé",
+            "sound": "Son"
+        }
+    },
+	"payTableHelp": {
+		"buttonClose": "X",
+		"prizeLevel": "Niveau du lot",
+        "prizeValue": "Valeur du lot",
+        "description": "Description",
+		"paytableWager": "Coût du billet : ",
+        "payTableDescription": {
+            "happy":"Jaune",
+            "lovey":"Rose",
+            "shocked":"Bleu",
+            "angry":"Rouge",
+            "puke":"Vert",
+            "iw1":"Lot instantané 1",
+            "iw2":"Lot instantané 2",
+            "iw3":"Lot instantané 3"
+        }
+	},
+    "ui": {
+        "balance": "Solde :",
+        "wager": "Coût du billet :",
+        "wager_main": "COÛT DU BILLET",
+        "demo": "ESSAYER",
+        "wins": "Gain :",
+        "demoWins": "Gain fictif :",
+        "buy": "ACHETER",
+        "try": "ESSAYER",
+        "autoPlay": {
+			"WLA": {
+				"revealAll": "JEU AUTO",
+				"revealAllStop": "ARRÊTER JEU AUTO"
+			},
+			"Commercial": {
+				"revealAll": "TOUT AFFICHER",
+				"revealAllStop": "ARRÊTER AFFICHAGE"
+			}
+		},
+        "exit": "QUITTER",
+        "playForMoney": "MODE ARGENT RÉEL",
+        "play_one": "LANCER",
+        "buy_again": "JOUER DE NOUVEAU",
+        "try_again": "ESSAYER DE NOUVEAU",
+        "help_close": "OK",
+        "result_close": "OK",
+        "retry": "RÉESSAYER",
+        "meter_division":" | "
+    },
+    "help":{
+        "title":"COMMENT JOUER",
+        "portrait":{
+            "text_1":"Appuyez sur LANCER pour accumuler des émoticônes ou une étoile. Faites progresser un compteur d’émoticônes pour gagner un lot.",
+            "text_2":"Trouvez un symbole Partie gratuite pour gagner une partie gratuite.",
+            "text_3":"Obtenez une étoile pour choisir une carte Lot instantané et gagner un lot instantané!"
+        },
+        "landscape":{
+            "text_1":"Appuyez sur LANCER pour accumuler des émoticônes ou une étoile. Faites progresser un compteur d’émoticônes pour gagner un lot.",
+            "text_2":"Trouvez un symbole Partie gratuite pour gagner une partie gratuite.",
+            "text_3":"Obtenez une étoile pour choisir une carte Lot instantané et gagner un lot instantané!"
+        }       
+    },
+    "paytable":{
+        "separator":"/",
+		"win":"GAGNANT"
+    },
+    "game":{
+        "freeSpinAwarded":"\nPARTIE GRATUITE",
+        "instantWin":"Lot instantané",
+        "spinsLeft":"Parties restantes",
+        "instantWinCard":"LOT\nINSTANTANÉ",
+        "winUpTo":"GAGNEZ JUSQU’À",
+        "pickACard":"CHOISISSEZ UNE CARTE LOT INSTANTANÉ!",
+		"winUpToExclamation":"!"
+    },
+    "result": {
+        "congratulations": "FÉLICITATIONS!",
+        "thanksForPlaying": "MERCI DE JOUER!",
+        "winText":"Vous avez gagné",
+        "demoWinText":"Vous auriez pu gagner",
+        "loseText": "MEILLEURE CHANCE \nLA PROCHAINE FOIS",
+        "prizeSuffix_buy": "",
+        "prizeSuffix_try": ""
+    },
+    "error": "<%= code %>\n\n<%= generic %>\n\n<%= specific %>"
+}
